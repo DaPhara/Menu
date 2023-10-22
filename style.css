@@ -1,0 +1,46 @@
+.product{
+    border: 1px solid black;
+    width: 300px;
+    float: left;
+    margin-right:10px ;
+    background-color: ghostwhite;
+    padding: 20px 20px;
+}
+.product img{
+    width: 280px;
+}
+.product p{
+    text-align: center;
+    font-weight: bold;
+}
+.product h1{
+    text-align: center;
+    color: #ff0000;
+}
+body{
+
+    background-image: url("paper.jpg");
+    background-position: 10px;
+    
+    
+}
+.logo{
+    width: 85px;
+    height: auto;
+    padding: 10px 20px;
+}
+.add{
+    padding: 5px 50px;
+}
+
+.menu{
+    text-align: center;
+}
+
+.product img{
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px 5px black;
+}
+.product .pad{
+    text-align: center;
+}
